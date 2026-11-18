@@ -42,7 +42,7 @@ pip install matplotlib
 Para quem não quer instalar o Python, há uma versão executável do simulador para Windows.
 
 1. Acesse a seção **Releases**, no lado direito desta página.
-2. Na versão mais recente, baixe o arquivo `ruina_do_jogador.exe`.
+2. Na versão mais recente, baixe o arquivo `RuinaDoJogador.exe`.
 3. Dê dois cliques no arquivo para abrir o simulador.
 
 Como o executável não possui assinatura digital, o Windows pode exibir o aviso "O Windows protegeu o computador". Nesse caso, clique em **Mais informações** e depois em **Executar assim mesmo**. Alguns antivírus também podem bloquear o arquivo na primeira vez. Se preferir não usar o executável, siga uma das opções abaixo, que executam o código-fonte.
