@@ -84,9 +84,11 @@ Quando o jogo é desfavorável e a meta é grande, a potência $(q/p)^N$ fica mu
 
 Durante a Aula 1 da aplicação da sequência didática, percebemos que a janela do programa cortava a parte inferior, onde aparecem os valores calculados, dependendo do tamanho da tela do computador. Como não conseguimos corrigir esse problema sozinhos, utilizamos uma ferramenta de inteligência artificial para identificar a causa e ajustar a organização da janela. A correção foi revisada e testada antes das aulas seguintes. A parte matemática do simulador não foi alterada nessa correção.
 
+Ferramentas de inteligência artificial também foram utilizadas como apoio na redação deste README, que foi revisado pela autora.
+
 ## Como citar
 
-SOBRENOME, Isabela. **Simulador da ruína do jogador**. 2026. Produto educacional (Mestrado Profissional em Matemática em Rede Nacional) – Universidade de Brasília, Brasília, 2026. Disponível em: https://github.com/SEU-USUARIO/simulador-ruina-do-jogador.
+MORAES, Isabela Leite de. **Simulador da ruína do jogador**. 2026. Produto educacional (Mestrado Profissional em Matemática em Rede Nacional) – Universidade de Brasília, Brasília, 2026. Disponível em: https://github.com/isabelaleitedemoraes-maker/simulador-ruina-do-jogador.
 
 ## Licença
 
